@@ -69,6 +69,6 @@ Download and extract the zip file. Run `VTScanner.exe`.
 
 I am not going to develop this project anymore. You are welcome to folk and develop by your own.
 
-## Licence 
+## License 
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
