@@ -2,6 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/JerryLinLinLin/VirusTotalSmartScanner/1.09/total">
 
 Virus Total Smart Scanner is a tool that can perform file scanning on any given directories. It has basic scan features and implementations, such as file type identification, rule match, cache management, and a clean user interface. 
 
