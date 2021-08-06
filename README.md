@@ -65,7 +65,7 @@ Download and extract the zip file. Run `VTScanner.exe`.
 - The log is stored in the program directory\log folder, and there is a button on the main interface to open it directly.
 - After uploading unknown files, you need to wait for the VT cloud to complete, this process is slow, please wait.
 
-## Contribute
+## Contributing
 
 I am not going to develop this project anymore. You are welcome to folk and develop by your own.
 
