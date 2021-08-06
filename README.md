@@ -1,10 +1,16 @@
 # Virus Total Smart Scanner
 
-Virus Total Smart Scanner is a tool that can perform file scanning on any given directories. It has basic scan features and implementations, such as file type identification, rule match, cache management, and a clean user interface. The scan verdict, whether files are malicious or not, is based on the detections come from several trusted vendors on Virus Total. It can be integrated to context menu to perform a right-click scan or manually file inspection that opens Virus Total page based on file hashes.
+Virus Total Smart Scanner is a tool that can perform file scanning on any given directories. It has basic scan features and implementations, such as file type identification, rule match, cache management, and a clean user interface. 
+
+The scan verdict, whether files are malicious or not, is based on the detections come from several trusted vendors on Virus Total. It can be integrated to context menu to perform a right-click scan or manually file inspection that opens Virus Total page based on file hashes.
+
+![Screenshot](screenshot.png)
 
 ## Special Note
 
-VirusTotal Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awsome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detection and false-postive. 
+VirusTotal Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. 
+
+The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awsome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detection and false-postive. 
 
 ## Highlighted Features
 
