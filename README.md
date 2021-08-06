@@ -1,5 +1,8 @@
 # Virus Total Smart Scanner
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
+
 Virus Total Smart Scanner is a tool that can perform file scanning on any given directories. It has basic scan features and implementations, such as file type identification, rule match, cache management, and a clean user interface. 
 
 The scan verdict, whether files are malicious or not, is based on the detections come from several trusted vendors on Virus Total. It can be integrated to context menu to perform a right-click scan or manually file inspection that opens Virus Total page based on file hashes.
