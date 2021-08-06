@@ -4,13 +4,13 @@ Virus Total Smart Scanner is a tool that can perform file scanning on any given 
 
 The scan verdict, whether files are malicious or not, is based on the detections come from several trusted vendors on Virus Total. It can be integrated to context menu to perform a right-click scan or manually file inspection that opens Virus Total page based on file hashes.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/JerryLinLinLin/VirusTotalSmartScanner/master/screenshot.png)
 
 ## Special Note
 
-VirusTotal Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. 
+Virus Total Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. 
 
-The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awsome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detections and false-postives. 
+The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awesome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detections and false-positives. 
 
 ## Highlighted Features
 
