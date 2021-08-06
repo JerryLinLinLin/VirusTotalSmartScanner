@@ -6,7 +6,7 @@ The scan verdict, whether files are malicious or not, is based on the detections
 
 ![Screenshot](screenshot.png)
 
-## Special Note
+## Special Notes
 
 Virus Total Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. 
 
