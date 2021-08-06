@@ -10,7 +10,7 @@ The scan verdict, whether files are malicious or not, is based on the detections
 
 VirusTotal Smart Scanner is my high school experimental project in 2018. It was first published in [Kafan Security Forum](https://bbs.kafan.cn/thread-2133049-1-1.html). That was almost three years ago, and I decide to make it open source. 
 
-The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awsome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detection and false-postive. 
+The project is not structured well, but functionality is ok. It is intended to show how easy an anti-virus scanner can be made by stealing the famous vendors' detections on Virus Total, naming "cloud detection". Many lazy and irresponsible vendors choose this method to make their detection rate looks "awsome", while potentially damages the whole anti-virus community by creating large amounts of unreliable detections and false-postives. 
 
 ## Highlighted Features
 
