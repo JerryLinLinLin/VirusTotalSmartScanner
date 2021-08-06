@@ -72,7 +72,7 @@ Download and extract the zip file. Run `VTScanner.exe`.
 
 ## Contributing
 
-I am not going to develop this project anymore. You are welcome to folk and develop by your own.
+I am not going to develop this project anymore. You are welcome to fork and develop by your own.
 
 ## License 
 
